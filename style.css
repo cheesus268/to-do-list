@@ -40,7 +40,7 @@ input {
   caret-color: transparent;
 }
 input::placeholder {
-  color: #a3a3a3;
+  color: #000000;
 }
 ul {
   list-style-position: inside;
@@ -55,6 +55,7 @@ li {
     width: fit-content;
 
 }
+
 
 
 
