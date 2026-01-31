@@ -38,6 +38,9 @@ input {
   margin: 0 auto;
   text-align: center;
 }
+input::placeholder {
+  color: #a3a3a3;
+}
 ul {
   list-style-position: inside;
   display: inline-block;
@@ -49,4 +52,5 @@ li:hover {
 }
 li {
     width: fit-content;
+
 }
