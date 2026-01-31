@@ -37,7 +37,6 @@ input {
   height: 2rem;
   margin: 0 auto;
   text-align: center;
-  caret-color: transparent;
 }
 input::placeholder {
   color: #a3a3a3;
@@ -55,4 +54,5 @@ li {
     width: fit-content;
 
 }
+
 
